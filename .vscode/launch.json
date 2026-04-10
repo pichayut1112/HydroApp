@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "HydroApp (Android)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "SCAIOC646918YV9",
+      "program": "lib/main.dart"
+    }
+  ]
+}

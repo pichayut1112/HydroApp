@@ -1,0 +1,2 @@
+E:/Coding/HydroApp/android/app/.cxx/Debug/3x5b142x/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Coding/HydroApp/android/app/.cxx/Debug/3x5b142x/armeabi-v7a/CMakeFiles/rebuild_cache.dir

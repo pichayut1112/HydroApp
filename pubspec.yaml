@@ -1,0 +1,42 @@
+name: hydro_app
+description: Water reminder app with clock UI
+publish_to: 'none'
+version: 0.0.1+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Notifications & scheduling
+  flutter_local_notifications: ^17.2.1
+  timezone: ^0.9.4
+
+  # Database
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+
+  # Persistence
+  shared_preferences: ^2.2.3
+
+  # State management
+  provider: ^6.1.2
+
+  # UI
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+
+  # Update checker
+  http: ^1.2.0
+  url_launcher: ^6.3.0
+  package_info_plus: ^8.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
